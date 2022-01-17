@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/rant",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/what-is-up-with-tech","title":"What is up with tech","date":"12.12.2021","excerpt":"First topic lorem ipsum First sub-topic lorem ipsum Second topic lorem ipsum","timeToRead":1,"description":"My current thoughts about tech and my further path in it.","tags":[{"name":"Rant","slug":"rant"}]}]}},"pageContext":{"slug":"rant","name":"Rant","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
